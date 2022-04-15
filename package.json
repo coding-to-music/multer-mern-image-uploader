@@ -1,15 +1,15 @@
 {
-  "name": "server",
+  "name": "multer-mern-image-uploader",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "server/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "type": "module",
   "engines": {
-    "node":">=14.16.0"
+    "node": ">=6.x"
   },
   "keywords": [
     "image",
